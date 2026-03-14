@@ -1,25 +1,24 @@
-# SiLacak — Sistem Pelacakan Alumni UMM
+SiLacak — Sistem Pelacakan Alumni UMM
 
 Sistem pelacakan alumni berbasis web untuk Program Studi Informatika, Universitas Muhammadiyah Malang.
 
 > **Daily Project 3** — Riska Nurhayati Deva
 
 ---
+🔗 Link
 
-## 🔗 Link
-
-- **Web:** [https://username.github.io/sistem-alumni/](https://username.github.io/sistem-alumni/) *(ganti dengan link kamu)*
-- **Source Code:** [https://github.com/username/sistem-alumni](https://github.com/username/sistem-alumni) *(ganti dengan link kamu)*
+- Web: [https://username.github.io/sistem-alumni/](https://riskadeva.github.io/Sistem-Alumni/) 
+- Source Code: [https://github.com/username/sistem-alumni](https://riskadeva.github.io/Sistem-Alumni/)
 
 ---
 
-## 📌 Deskripsi
+Deskripsi
 
 SiLacak adalah aplikasi web untuk membantu institusi pendidikan melacak keberadaan dan aktivitas alumni melalui berbagai sumber publik seperti LinkedIn, Google Scholar, ResearchGate, GitHub, dan media sosial lainnya.
 
 ---
 
-## ✨ Fitur
+✨ Fitur
 
 - 📊 Dashboard statistik alumni
 - 👥 Manajemen data alumni (tambah, edit, hapus)
@@ -49,7 +48,7 @@ SiLacak adalah aplikasi web untuk membantu institusi pendidikan melacak keberada
 
 ---
 
-### 2. Pengujian Usability
+ 2. Pengujian Usability
 
 | No | Aspek | Kriteria | Hasil Pengujian | Status |
 |----|-------|----------|-----------------|--------|
@@ -62,7 +61,7 @@ SiLacak adalah aplikasi web untuk membantu institusi pendidikan melacak keberada
 
 ---
 
-### 3. Pengujian Kompatibilitas
+3. Pengujian Kompatibilitas
 
 | No | Browser / Perangkat | Versi | Tampilan | Fungsionalitas | Status |
 |----|---------------------|-------|----------|----------------|--------|
@@ -77,7 +76,7 @@ SiLacak adalah aplikasi web untuk membantu institusi pendidikan melacak keberada
 
 ---
 
-### 4. Pengujian Performance
+4. Pengujian Performance
 
 | No | Aspek | Metode Pengujian | Hasil | Target | Status |
 |----|-------|-----------------|-------|--------|--------|
@@ -90,7 +89,7 @@ SiLacak adalah aplikasi web untuk membantu institusi pendidikan melacak keberada
 
 ---
 
-## 🛠️ Teknologi
+ Teknologi
 
 - HTML5, CSS3, JavaScript (Vanilla)
 - LocalStorage API
@@ -98,16 +97,12 @@ SiLacak adalah aplikasi web untuk membantu institusi pendidikan melacak keberada
 
 ---
 
-## 📁 Struktur File
+ 📁 Struktur File
 
 ```
 sistem-alumni/
 └── index.html    # File utama aplikasi
 └── README.md     # Dokumentasi & pengujian
-```
 
----
-
-## 👤 Pengembang
 
 **Riska Nurhayati Deva** — Informatika, Universitas Muhammadiyah Malang
